@@ -1,0 +1,119 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Dog",
+      "price": 60,
+      "image_url": "Product_01.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Dinosar",
+      "price": 100,
+      "image_url": "Product_02.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Iguana",
+      "price": 65,
+      "image_url": "Product_03.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Sparrow",
+      "price": 40,
+      "image_url": "Product_04.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Tiger",
+      "price": 65,
+      "image_url": "Product_05.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Cat",
+      "price": 55,
+      "image_url": "Product_06.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Lion",
+      "price": 70,
+      "image_url": "Product_07.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Owl",
+      "price": 45,
+      "image_url": "Product_08.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Cat 2",
+      "price": 53,
+      "image_url": "Product_09.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Deer",
+      "price": 55,
+      "image_url": "Product_10.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Elephant",
+      "price": 85,
+      "image_url": "Product_11.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Dog 2",
+      "price": 65,
+      "image_url": "Product_12.jpg"
+    }
+  ],
+  "cart": [
+    {
+      "id": 12,
+      "name": "Dog 2",
+      "price": 65,
+      "image_url": "Product_12.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Deer",
+      "price": 55,
+      "image_url": "Product_10.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Lion",
+      "price": 70,
+      "image_url": "Product_07.jpg"
+    }
+  ],
+  "checkout": [
+    [
+      {
+        "id": 12,
+        "name": "Dog 2",
+        "price": 65,
+        "image_url": "Product_12.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Deer",
+        "price": 55,
+        "image_url": "Product_10.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Lion",
+        "price": 70,
+        "image_url": "Product_07.jpg"
+      }
+    ]
+   
+  ]
+}
